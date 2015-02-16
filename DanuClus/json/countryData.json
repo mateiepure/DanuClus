@@ -1,0 +1,28 @@
+{
+    "countries": {
+        "Romania": {
+            "name": "Romania",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        },
+        "CzechRepublic": {
+            "name": "Czech Republic",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        },
+        "Bulgaria": {
+            "name": "Bulgaria",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        },
+        "Slovakia": {
+            "name": "Slovakia",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        },
+        "Serbia": {
+            "name": "Serbia",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        },
+        "Croatia": {
+            "name": "Croatia",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales eleifend magna quis varius. Morbi elit diam, molestie at pellentesque eu, suscipit vitae ipsum. Sed consequat urna et augue ultrices dignissim. Phasellus imperdiet vestibulum commodo. Etiam laoreet sapien sit amet urna rutrum hendrerit. Aliquam risus enim, luctus non cursus sit amet, blandit sit amet purus. Ut pulvinar turpis sagittis semper ultrices. Sed interdum venenatis purus ac gravida. Mauris a lectus rhoncus, porttitor elit vestibulum, bibendum ligula. Pellentesque ac molestie justo. Quisque nec eleifend metus. Vestibulum et dignissim quam. Duis non mi et erat volutpat ornare. Duis in mi facilisis, lacinia eros ut, elementum nunc. Integer ullamcorper ut metus sit amet semper."
+        }
+    }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "name":"Daniel Cosnita",
+        "photo":"ro.jpg",
+        "Country":"Romania",
+        "Company":{
+            "name": "Inpulse Partners SRL",
+            "address": "www.inpulse.ro"
+        },
+        "Email":"dc@inpulse.ro",
+        "Phone Number": "+40 (722) 312 135",
+        "Social": {
+            "facebook": "Yes",
+            "twitter": "",
+            "linkedin": "Yes",
+            "wordpress": "Yes",
+            "dropbox": "",
+            "rss": "",
+            "skype": "",
+            "blogger": "",
+            "googleplus": "Yes"
+        }
+    },
+    {
+        "name":"Madonna Ciccone",
+        "photo":"madonna.jpg",
+        "Country":"United States",
+        "Company":{
+            "name": "Inpulse Partners USA",
+            "address": ""
+        },
+        "Email":"mdna@inpulse.us",
+        "Phone Number": "+1 (224) 123-345",
+        "Social": {
+            "facebook": "",
+            "twitter": "",
+            "linkedin": "",
+            "wordpress": "Yes",
+            "dropbox": "Yes",
+            "rss": "Yes",
+            "skype": "Yes",
+            "blogger": "Yes",
+            "googleplus": "Yes"
+        }
+    },
+    {
+        "name":"Emma Watson",
+        "photo":"emmawatson.jpg",
+        "Country":"United Kingdom",
+        "Company":{
+            "name": "Inpulse Partners UK",
+            "address": "www.inpulse.uk"
+        },
+        "Email":"hermione@inpulse.uk",
+        "Phone Number": "+44 3069 990 846",
+        "Social": {
+            "facebook": "Yes",
+            "twitter": "Yes",
+            "linkedin": "",
+            "wordpress": "",
+            "dropbox": "",
+            "rss": "",
+            "skype": "",
+            "blogger": "",
+            "googleplus": "Yes"
+        }
+    },
+    {
+        "name":"Queen Elizabeth II",
+        "photo":"queenelizabeth.jpg",
+        "Country":"United Kingdom",
+        "Company":{
+            "name": "Inpulse Royal Partners",
+            "address": "www.inpulseroyal.uk"
+        },
+        "Email":"herMajesty@inpulse.uk",
+        "Phone Number": "+44 437 625 3789",
+        "Social": {
+            "facebook": "",
+            "twitter": "Yes",
+            "linkedin": "",
+            "wordpress": "Yes",
+            "dropbox": "",
+            "rss": "",
+            "skype": "",
+            "blogger": "",
+            "googleplus": "Yes"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+<html>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/raphael-min.js"></script>
+    <script src="js/paths.js"></script>
+    <script>
+        var raph;
+        window.onload = function() {
+            var attr = {
+                fill: "0-#FF0000-#FFFF00-#0000FF",
+                stroke: "black"
+            };
+            raph = Raphael("paper");
+            raph.setViewBox(0,0,210,210);
+    
+            for (var element in paths) {
+                console.log(element);
+                stuff = raph.path(paths[element]).attr(attr).hover(function() {this.attr});
+            }
+            console.log(stuff);
+        }
+    </script>
+    <style>
+        #paper {
+            width: 400px;
+            height: 400px;
+            margin: 0 auto;
+        }
+    </style>
+    
+    <body>
+        <div id = "paper"></div>
+    </body>
+</html>
